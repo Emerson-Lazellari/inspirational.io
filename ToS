@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service - Life Advice</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p><strong>Last updated:</strong> [Today's date]</p>
+  
+  <h2>1. Description of Service</h2>
+  <p>Life Advice is an automated tool that creates and posts motivational quotes and psychology-backed tips to your TikTok account. The service uses AI to generate content and posts it on your behalf after you authorize access.</p>
+  
+  <h2>2. Your Responsibilities</h2>
+  <p>You must own the TikTok account you connect. You are responsible for all content posted through this service. You agree to comply with TikTok's Terms of Service and Community Guidelines.</p>
+  
+  <h2>3. Authorization</h2>
+  <p>By using this service, you authorize us to post content to your TikTok account via TikTok's official API. You may revoke access at any time through your TikTok account settings.</p>
+  
+  <h2>4. Changes</h2>
+  <p>We may update these terms. Continued use of the service after changes constitutes acceptance.</p>
+  
+  <h2>5. Contact</h2>
+  <p>For questions, contact us at [your-email@example.com].</p>
+</body>
+</html>
